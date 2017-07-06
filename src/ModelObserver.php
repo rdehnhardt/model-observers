@@ -5,13 +5,6 @@ namespace Rdehnhardt\ModelObserver;
 trait ModelObserver
 {
     /**
-     * Models Observer
-     *
-     * @var string
-     */
-    protected static $observer = null;
-
-    /**
      * Boot model observer
      */
     public static function bootModelObserver()
