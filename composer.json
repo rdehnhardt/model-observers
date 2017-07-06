@@ -1,0 +1,24 @@
+{
+  "name": "rdehnhardt/eloquent-case",
+  "type": "library",
+  "description": "Make model observers easy",
+  "license": "MIT",
+  "keywords": [
+    "eloquent",
+    "observers",
+    "laravel"
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "illuminate/database": "5.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0",
+    "phpspec/phpspec": "~2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Rdehnhardt\\ModelObserver\\": "src/"
+    }
+  }
+}
