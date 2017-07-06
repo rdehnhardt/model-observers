@@ -1,5 +1,5 @@
 {
-  "name": "rdehnhardt/eloquent-case",
+  "name": "rdehnhardt/model-observers",
   "type": "library",
   "description": "Make model observers easy",
   "license": "MIT",
